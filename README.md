@@ -7,8 +7,10 @@ All READMEs for this class should have the following sections:
 ## General information
 
 What is this repo for?
+testing out forking.
 
 Whose repo is it? Who is contributing to it?
+my repo forked from fjoyice
 
 ## Data and file information
 
